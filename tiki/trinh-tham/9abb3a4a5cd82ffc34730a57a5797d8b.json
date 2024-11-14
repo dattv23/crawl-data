@@ -1,0 +1,91 @@
+{
+    "info": {
+        "title": "Cốt Toái",
+        "author": "Koen Roka",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/e3/58/f3/1ec7532c0d0a4158b413373e596f0f63.png.webp",
+        "soldQuantity": 65,
+        "currentPrice": 74000,
+        "originalPrice": 109000
+    },
+    "details": {
+        "Bookcare": "Có",
+        "publisher": "Tsuki Trinh Thám",
+        "publishDate": "2024-06-01 00:00:00",
+        "dimensions": "13 x 18 cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "368",
+        "publishingHouse": "Nhà Xuất Bản Thế Giới"
+    },
+    "description": "“Các trò nghĩ nên chọn ai để hiến tế tiếp theo?”\nĐược viết dưới dạng một bản hồ sơ, “Cốt toái” là tập hợp những câu chuyện ma quái xảy ra trong cuộc sống thường nhật của con người. Theo chân “tôi”, một nhân vật quan sát, độc giả từ từ lần theo sợi dây được căng trong bóng tối mịt mùng, không ngừng lung lay giữa hai bờ vực thực và hư. Mỗi câu chữ là một bí ẩn, mỗi ngôn từ đều như chứa đựng lời nguyền xâm chiếm tâm trí con người.\nTrong quá trình cùng “tôi” truy tìm sự thật đó, người đọc dần dần tham dự và trở thành một phần của tác phẩm lúc nào không hay. Hãy cẩn thận, vì có thể ■■■ đang ở ngay sau lưng bạn đấy.----------Giới thiệu về tác giả:\nSinh ra ở Tokyo. Năm 2018, anh bắt đầu đăng tải tiểu thuyết trên trang web “Kakuyomu”.\nMùa hè năm 2020, tiểu thuyết kinh dị “Honegarami” (Cốt toái) của anh đã trở thành chủ đề nóng trên Twitter (hiện đã đổi tên thành X). Đầu năm 2021, anh ra mắt với tư cách là một nhà văn với cuốn sách “Cốt toái” – phiên bản sửa đổi của tác phẩm cùng tên.\nLoạt truyện “Văn phòng Sasaki”, bắt đầu với “Lễ hội dị giáo” của anh được rất nhiều người yêu thích. Tác phẩm mới nhất của anh là “Cánh cửa tử thần dẫn đến thiên đường”.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Đào Minh Thư",
+                "date": "Đã tham gia 6 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phương Thảo",
+                "date": "Đã tham gia 10 năm",
+                "reviewCount": "243 Đánh giá",
+                "likedCount": "26 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Tuệ Hà",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "52 Đánh giá",
+                "likedCount": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đặng Nguyễn Hạ Vy",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "32 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Khang Nguyen",
+                "date": "Đã tham gia 1 năm",
+                "reviewCount": "8 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

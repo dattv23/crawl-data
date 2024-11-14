@@ -1,0 +1,50 @@
+{
+    "info": {
+        "title": "Phát Súng Thứ Hai",
+        "author": "Anthony Berkeley",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/6b/f1/6a/2a525f430c6321bfe88e1255e927e85e.jpg.webp",
+        "soldQuantity": 25,
+        "currentPrice": 115000,
+        "originalPrice": 149000
+    },
+    "details": {
+        "publisher": "VIVABOOKS",
+        "dimensions": "14.5x20.5cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "384",
+        "publishingHouse": "Nhà Xuất Bản Thế Giới"
+    },
+    "description": "Năm 1930, tác phẩm “Phát súng thứ hai” ra đời, một thử nghiệm về cách viết mới của tác giả Anthony Berkeley bằng việc đào sâu tâm lý nhân vật, khai thác câu chuyện động cơ cùng chút trào phúng. Cuốn sách kể về vị thám tử nghiệp dư Roger Sheringham, đây cũng là nhân vật xuất hiện trong tiểu thuyết “Vụ án sô cô la có độc”.\n“Eric nằm đó, cả thân mình ngập trong máu với cánh tay bị bẻ gập rất gượng ngay bên dưới cơ thể gã. Gã ta chết rồi! Cái chết tức tưởi nằm trong dự liệu. Nhưng phải đến lần khai hỏa thứ hai, thần chết mới thực sự gõ cửa nhà gã. Các cuộc điều tra lần lượt nổ ra giữa các nhà văn trinh thám và cảnh sát. Manh mối dần hé mở. Tuy nhiên, một lần nữa vụ án rơi vào ngõ cụt bởi lời khai chồng chéo và những mâu thuẫn ngầm vẫn luôn hiện hữu.\nĐâu đó phía sau bụi cây nằm sâu trong khu rừng thăm thẳm, cặp mắt độc địa của hung thủ sáng quắc kèm theo nụ cười tự mãn như nghênh chiến với bất kì ai.”\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyen Thi Hong Nhung",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "228 Đánh giá",
+                "likedCount": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Shop đóng gói cẩn thận và giao nhanh. Sẽ tiếp tục ủng hộ shop ah"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Đức Nghĩa",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

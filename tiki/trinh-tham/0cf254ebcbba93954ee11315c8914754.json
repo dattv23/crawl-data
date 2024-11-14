@@ -1,0 +1,89 @@
+{
+    "info": {
+        "title": "Siêu án mạng: nỗi ưu phiền của các nhà văn trinh thám",
+        "author": "Higashino Keigo",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/1b/5b/7a/fffcbafcb21117210a2f14a2f838cd76.jpg.webp",
+        "soldQuantity": 156,
+        "currentPrice": 78000,
+        "originalPrice": 130000
+    },
+    "details": {
+        "publisher": "Nhã Nam",
+        "dimensions": "14 x 20.5 cm",
+        "translator": "ANRURU",
+        "coverType": "Bìa mềm",
+        "publishingHouse": "Nhà Xuất Bản Hà Nội"
+    },
+    "description": "Trong cơn phiền não vì phải viết đánh giá cho một cuốn tiểu thuyết mới ra mắt, một nhà phê bình đã được giới thiệu cho chiếc máy kỳ lạ mang tên “SoHox”. Với khả năng tạo ra những bài bình luận về bất kỳ tác phẩm nào chỉ trong tích tắc, chiếc máy này có thể sẽ làm nên một cuộc cách mạng đảo lộn hoàn toàn giới tiểu thuyết trinh thám…\nTuyển tập tám truyện ngắn đầy kịch tính, vén lên bức màn phía sau sự ra đời của những tác phẩm trinh thám. Khi ra mắt lần đầu, Vụ án chiếc máy đọc sách siêu việt đã thực sự làm rung chuyển cả ngành xuất bản. Những mánh khóe bất ngờ, những trò đùa xuất sắc, và cả những cái kết đáng sợ, tất cả tụ hội trong một loạt các tác phẩm sâu cay và ấn tượng đến tuyệt đỉnh.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 12
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "phung khue",
+                "date": "Đã tham gia 10 năm",
+                "reviewCount": "164 Đánh giá",
+                "likedCount": "424 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "8 truyện ngắn và siêu ngắn với thủ pháp kể chuyện tự trào của Higashino Keigo là sự châm biếm hài ước với nghề viết văn trinh thám cũng như công nghệ xuất bản bản."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Sapphire Thanh Huyền",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "80 Đánh giá",
+                "likedCount": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Anh",
+                "date": "Đã tham gia 1 tháng",
+                "reviewCount": "7 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Khánh Toàn",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "137 Đánh giá",
+                "likedCount": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dương Võ",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "87 Đánh giá",
+                "likedCount": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

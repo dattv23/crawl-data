@@ -1,0 +1,91 @@
+{
+    "info": {
+        "title": "Kẻ Theo Dõi Bí Ẩn",
+        "author": "Lisa Jewell",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/e5/f0/10/5ebe01c58cf049ad715bba38a38586d1.jpg.webp",
+        "soldQuantity": 84,
+        "currentPrice": 115000,
+        "originalPrice": 169000
+    },
+    "details": {
+        "Bookcare": "Có",
+        "publisher": "Mintbooks",
+        "dimensions": "16 x 24cm",
+        "translator": "Mai Trang",
+        "coverType": "Bìa mềm",
+        "pageCount": "340",
+        "publishingHouse": "Nhà Xuất Bản Văn Học"
+    },
+    "description": "Cùng lúc đó, Jenna Tripp, một nữ sinh theo học tại trường của Tom Fitzwilliam cũng tìm ra vài manh mối cho thấy người thầy hiệu trưởng đáng kính của mình không hề tốt đẹp như vẻ ngoài.\nVà không một ai trong số họ biết nhiều năm trước, tại một ngôi trường cách xa Melville Heights, một nữ sinh đã tự tử và để lại cuốn nhật ký ghi lại những tình cảm cấm đoán của mình dành cho một giáo viên tiếng Anh mang họ Fitzwilliam…\nMỗi bí mật được cố tình ngụy trang và giấu giếm thật kỹ, liệu có qua mắt được kẻ theo dõi, mời các bạn đón đọc ấn phẩm mới của Mint Theory!\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 6
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Trinh Minh Hoang",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "315 Đánh giá",
+                "likedCount": "44 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng nhanh chóng! Nhà AZ giá bìa cao quá, nhưng giá mua sale 40% cho 1 cuốn sách mới cũng ổn..thấy rvw sôi nối quá...xem sao"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Mai Hoa",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "165 Đánh giá",
+                "likedCount": "42 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nội dung hay, logic. Mình cũng đoán ngay được hung thủ là chị dâu. Nhưng đọc từ đầu cứ nghĩ nạn nhân là anh thầy giáo Tom. Thật là bất ngờ và cuốn hút"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Anh Thư",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "8 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Bùi Thị Thanh Thủy",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "682 Đánh giá",
+                "likedCount": "6 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thái Hoài Anh",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

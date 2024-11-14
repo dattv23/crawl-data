@@ -1,0 +1,92 @@
+{
+    "info": {
+        "title": "Vũ trụ",
+        "author": "Carl Sagan",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/fd/53/6f/8131464fdaa1293420375817616af687.jpg.webp",
+        "soldQuantity": 62,
+        "currentPrice": 116350,
+        "originalPrice": 179000
+    },
+    "details": {
+        "bookVersion": "Phiên bản thường",
+        "publisher": "Nhã Nam",
+        "publishDate": "2023-04-04 00:00:00",
+        "dimensions": "14 x 20.5 cm",
+        "translator": "Nguyễn Việt Long",
+        "coverType": "Bìa mềm",
+        "pageCount": "572",
+        "publishingHouse": "Nhà Xuất Bản Thế Giới"
+    },
+    "description": "BẢY MƯƠI TUẦN TRÊN DANH MỤC SÁCH BÁN CHẠY CỦA TỜ NEW YORK TIMES\nMỘT TRONG NHỮNG ĐẦU SÁCH KHOA HỌC BÁN CHẠY NHẤT ĐƯỢC XUẤT BẢN BẰNG TIẾNG ANH\nGIẢI THƯỞNG HUGO 1981Mười ba câu chuyện tuyệt đẹp về Vũ trụ. Qua lời kể trữ tình của Carl Sagan, người đọc sẽ có dịp du hành trong vũ trụ, khám phá thế giới từ vĩ mô của những thiên hà to lớn đến thế giới vi mô của những con vi khuẩn nhỏ bé trên Trái đất, đi từ những nền văn minh xa xưa đến tương lai của thế giới, cho ta thấy mối gắn bó hữu cơ của từng sự việc nhỏ nhặt với vũ trụ bao la và nghe những giọng điệu nhiều bè của Vũ trụ. Vũ trụ đã chỉ là vũ trụ vô tri, hỗn độn, mà còn là một thế giới có trật tự, có tri giác, đầy nhân văn và xúc cảm. Cuốn sách của Carl Sagan, một nhà thiên văn học nổi tiếng đã bán được hơn 5 triệu bản trên toàn thế giới.Lời khen tặng dành cho Vũ trụ“Cuốn Vũ trụ giống như một khóa giảng đại học về khoa học mà bạn luôn muốn nghe nhưng không biết vị giáo sư nào có thể dạy. Sagan viết tuyệt vời. Với phong cách văn chương trữ tình, với sự bao quát gần như mọi mặt của tri thức loài người, Vũ trụ tài tình đến mức tưởng như không có thật.”– Cleveland Plain Dealer“Carl Sagan là một trong số những nhà khoa học xuất sắc nhất của thời đại chúng ta… Ông đã làm công việc viết lách cừ khôi khi đào sâu vào quá khứ, hiện tại và tương lai của khoa học, trong việc xử lý sự bao la gây choáng váng trí óc của cái vũ trụ mà trong đó chúng ta đang tồn tại.”- Associated Press“Xuất sắc về quy mô và thách thức về những gợi ý. Cuốn sách tỏa ánh sáng lung linh với một cảm giác ngạc nhiên kỳ lạ… Tôi tin chắc rằng bất cứ ai cầm cuốn sách này lên đều bị hút chặt vào nó và cảm thấy thấp bé đi vì nó.”– Miami Herald\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 7
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Mạnh Trường Trần",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "24 Đánh giá",
+                "likedCount": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Huỳnh Minh Nhật",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "26 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Đức Khánh Duy",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "84 Đánh giá",
+                "likedCount": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đào Tấn Phát",
+                "date": "Đã tham gia 8 năm",
+                "reviewCount": "18 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thiện Nguyễn",
+                "date": "Đã tham gia 1 năm",
+                "reviewCount": "46 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "info": {
+        "title": "Mô hình hồi quy (TB T10/2022)",
+        "author": "GS.TS. Nguyễn Văn Tuấn",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/07/3d/09/9218249027df211c37b3ef53f84a2fe0.jpg.webp",
+        "soldQuantity": 10,
+        "currentPrice": 120000,
+        "originalPrice": 150000
+    },
+    "details": {
+        "publisher": "Nhà xuất bản Tổng hợp TP.HCM",
+        "publishDate": "2022-10-01 10:06:39",
+        "coverType": "Bìa mềm",
+        "pageCount": "323",
+        "publishingHouse": "Nhà Xuất Bản Tổng hợp TP.HCM"
+    },
+    "description": "Các mô hình hồi quy là phương tiện khoa học rất quan trọng trong việc khám phá những quy luật tự nhiên, phát hiện các mối liên quan, đánh giá sự ảnh hưởng của các yếu tố tiên lượng, và dự báo tương lai. Các mô hình hồi quy cũng rất tốt trong việc giúp nhà khoa học sàng lọc tín hiệu từ nhiễu, qua các phương pháp kiểm định giả thuyết và kiểm định thống kê.\nCuốn sách bạn đang cầm trên tay sẽ giới thiệu các mô hình hồi quy tuyến tính, hồi quy logistic, hồi quy Poisson, và hồi quy Cox. Bạn đọc sẽ học qua các phát biểu giả thuyết khoa học qua các mô hình hồi quy. Những vấn đề (ít khi nào được đề cập trong sách giáo khoa) như đánh giá tầm quan trọng của biến tiên lượng, hoán chuyển dữ liệu, xây dựng và kiểm định mô hình, Lasso, Ridge, Robust, và cach triển khai các ý tưởng này bằng ngôn ngữ R.\nMỗi phương pháp được minh họa bằng một nghiên cứu hay dữ liệu thực tế và các mã R mà bạn đọc có thể vừa đọc vừa áp dụng trong thực tế. Do đó, cuốn sách sẽ là một nguồn tham khảo cho các bạn sinh viên, nghiên cứu sinh, nhà nghiên cứu, và giảng viên thuộc bất cứ lĩnh vực khoa học nào.\nBạn đọc sẽ cảm thấy thích thú với những câu chuyện mang tính lịch sử đằng sau mô hình hồi quy tuyến tính. Bạn đọ cũng sẽ biết thêm về suy nghĩ của các nhân vật khoa học đặt nền tảng cho mô hình hồi quy và khoa học thống kê hiện đại như Carl Friedrick Gauss, Daniel Bernoulli, Sime'on Denis Poisson, Francis Galton, Karl Pearson, Ronald Fisher, Jerzy Neyman, Egon Pearson,\"(Tác giả: Nguyễn Văn Tuấn)\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {},
+    "reviews": []
+}

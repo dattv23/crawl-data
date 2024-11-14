@@ -1,0 +1,22 @@
+[
+	{
+		"categoryId": "18343b6f-2b05-4494-9d98-2f22335a12f4",
+		"name": "Khoa học kỹ thuật",
+		"slug": "khoa-hoc-ky-thuat"
+	},
+	{
+		"categoryId": "20a464ae-24ac-45a0-81d9-96b3cfaeb969",
+		"name": "Tâm lý giới tính",
+		"slug": "tam-ly-gioi-tinh"
+	},
+	{
+		"categoryId": "0e514105-34d5-4775-9315-68114e6d8cbe",
+		"name": "Tôn giáo tâm linh",
+		"slug": "ton-giao-tam-linh"
+	},
+	{
+		"categoryId": "57986bce-74ea-4fdf-9c8a-c258bb537d87",
+		"name": "Trinh thám",
+		"slug": "trinh-tham"
+	}
+]

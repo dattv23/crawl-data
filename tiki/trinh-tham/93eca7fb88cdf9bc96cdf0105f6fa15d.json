@@ -1,0 +1,90 @@
+{
+    "info": {
+        "title": "Đam Mê Và Trừng Phạt",
+        "author": "Louisa May Alcott",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/84/65/fb/b59329b08af89829932c0bc21da00298.png.webp",
+        "soldQuantity": 77,
+        "currentPrice": 77350,
+        "originalPrice": 119000
+    },
+    "details": {
+        "Bookcare": "Có",
+        "publisher": "VIVABOOKS",
+        "dimensions": "14.5x20.5cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "264",
+        "publishingHouse": "Nhà Xuất Bản Dân Trí"
+    },
+    "description": "Trái ngược hoàn toàn với những tác phẩm vốn đã quen thuộc của nhà văn Louisa May Alcott, tuyển tập ĐAM MÊ VÀ TRỪNG PHẠT mang gam màu đen tối, u ám, với những dối lừa cùng phản bội xuyên suốt tác phẩm. Năm câu chuyện trong tuyển tập khắc họa sâu sắc số phận nghiệt ngã nhưng quật cường của những người phụ nữ.\nVượt lên trên tất thảy mọi sóng gió, trái tim, khối óc và tâm hồn của những người phụ nữ vẫn kiên cường tỏa sáng\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyen Thi Hong Nhung",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "228 Đánh giá",
+                "likedCount": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Shop đóng gói cẩn thận và giao nhanh. Sẽ tiếp tục ủng hộ ah shop."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Phương Ngân",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "6 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Giao hàng nhanh, giá sale 50% quá xá đã."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ng Tr Yên Phương",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "5 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Bìa siu đẹp trời ơiiii😭💝"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Xuân Thuỳ Lê",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "thu nga",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "26 Đánh giá",
+                "likedCount": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

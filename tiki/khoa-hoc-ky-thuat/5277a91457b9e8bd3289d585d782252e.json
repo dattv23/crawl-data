@@ -1,0 +1,36 @@
+{
+    "info": {
+        "title": "Ứng Dụng Matlab Trong Hệ Thống Điện ( Tặng Kèm Sổ Tay)",
+        "author": null,
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/05/e3/0e/3d2030355fcdeb9c0631c8b4618dc477.jpg.webp",
+        "soldQuantity": 6,
+        "currentPrice": 113100,
+        "originalPrice": 145000
+    },
+    "details": {
+        "publisher": "Công Ty TNHH Thương Mại STK",
+        "coverType": "Bìa mềm",
+        "pageCount": "344",
+        "publishingHouse": "Nhà Xuất Bản Thanh Niên"
+    },
+    "description": "Ứng Dụng Matlab Trong Hệ Thống Điện\nChuyên ngành Hệ thống điện là chuyên ngành trang bị cho người học các kiến thức cơ sở vững chắc, chuyên môn sâu về quy hoạch phát triển nguồn điện, tính toán thiết kế, lắp đặt, sửa chữa quản lý vận hành và điều khiển các hệ thống cung cấp điện và thiết bị điện-điện tử. Trong đó việc tính toán, phân tích một mạng điện hay hệ thống điện là rất quan trọng. Cuốn sách trình bày và phân tích một mạng điện dưới dạng ma trận đồng nhất hay không đồng nhất, giải tích mạng điện bằng các phương trình căn bản mà tác giả đã đề nghị thêm vào để đơn giản hóa hệ thống điện, mà cụ thể là:\nGiải tích mạng điện bằng phương trình căn bản là một phương pháp hoàn toàn mới, dễ hiểu và hiệu quả, là phương pháp giải trực tiếp nên giúp cho người học thu nhận được tất cả các tính chất của một mạng điện mà không thông qua phép tính trung gian  rườm rà vốn có của các cách giải trước đây.\nPhương pháp này cho phép diễn tả các nguồn độc lập hay phụ thuộc bởi phương trình tương ứng đơn giản và đặc biệt là: Dù vị trí của nguồn nằm bất kỳ nơi nào trong mạch điện nhưng dạng của phương trình vẫn không thay đổi.\nDo tính chất bất biến của phương trình căn bản nên cho phép giải được các mạng điện từ DC cho đến AC công suất lớn mà điển hình là các lưới điện cung cấp trong điện lực.\nPhương pháp còn cho phép xây dựng phương trình căn bản cho các thiết bị điện-điện tử như: Máy Biến Áp, Op-Amp,… diễn tả mạng điện bao gồm các thiết bị như vậy dưới dạng một ma trận không đồng nhất.\nDo cách giải mang tính trực quan, nên vấn đề xây dựng ma trận được thực hiện một cách đơn giản và nhanh chóng bằng cách nhìn trực tiếp vào mạng điện cho dù có bao nhiêu màng hay nút.\nPhương pháp này rất hiệu quả cho các loại mạng điện mang tính phân bố như: Phân bố dòng điện, Phân bố điện thế và Phân bố công suất, cho phép thiết kế, vận hành hệ thống điện, khảo sát hệ thống ở chế độ trước và sau sự cố, điều chỉnh điện áp, công suất, phân tích và tính toán các dạng ngắn mạch và vận hành kinh tế hệ thống điệ từ đó có thể dễ dàng mở rộng lưới điện cung cấp cho tương lai.\nĐặc biệt phương pháp này còn cho phép chuyển đổi từ hệ phương trình phi tuyến về dạng tuyến tính để hòa hợp với ma trận chuẩn vốn có của bất kỳ một mạng điện nào, từ đó làm thành một ma trận thống nhất. Như vậy sự phân bố phức tạp trên mạng điện  chỉ còn là một sự phân bố và hội tụ nghiệm đơn giản trên ma trận mà thôi.\nMặt khác, ngày nay với sự tham gia của máy tính trong hầu hết mọi lĩnh vực về khoa học kỹ thuật thì vấn đề giải thuật cũng cần phải bàn đến, với giải thuật phương trình căn bản cho phép chuyển đổi hệ n phương trình phi tuyến hay tuyến tính thành ma trận cấp n, thì lại một lần nữa cho thấy sự tương thích hoàn toàn giữa phương pháp này với sự có mặt của máy tính.\nBản đặc biệt tặng kèm sổ tay xương rồng, mẫu ngẫu nhiên ( 1 trong 4 mẫu như hình ) và số lượng có hạn\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 1
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Tuấn Cường",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

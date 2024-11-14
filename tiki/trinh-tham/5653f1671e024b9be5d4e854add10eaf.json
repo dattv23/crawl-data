@@ -1,0 +1,90 @@
+{
+    "info": {
+        "title": "Nhập Vai Thám Tử (Mê Cung Xanh)",
+        "author": "G.T. Karber",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/fe/70/a8/fad69689782035bd705ea572791a75dc.png.webp",
+        "soldQuantity": 50,
+        "currentPrice": 77350,
+        "originalPrice": 119000
+    },
+    "details": {
+        "Bookcare": "Có",
+        "publisher": "VIVABOOKS",
+        "dimensions": "15.7x24cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "208",
+        "publishingHouse": "Nhà Xuất Bản Dân Trí"
+    },
+    "description": "Nhập Vai Thám Tử (Mê Cung Xanh)\nMURDLE chính thức phát hành vào tháng 6/2023 tại Anh, hiện là một trong những cuốn sách bán chạy nhất trên toàn cầu, sở hữu vô số thành tích “khủng”:\nCuốn sách gồm 50 vụ án được chia thành 4 cập độ từ đơn giản đến phức tạp. Người chơi cần áp dụng khả năng suy luận logic và kỹ năng loại trừ để giải đố.\n- Kẻ nào đã gây ra những tội ác rùng rợn ấy?- Hắn đã sử dụng hung khí gì để kểt liễu nạn nhân?- Cái bẫy đã được giăng sẵn ở đâu?Hãy nghiên cứu kĩ lưỡng các đầu mối, phỏng vấn nhân chứng và vận dụng khả năng suy luận để “phá lưới”, bắt đúng thủ phạm!\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 5
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Nguyễn Vy",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "19 Đánh giá",
+                "likedCount": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mua quyển 1 ưng bụng quá, nay ra quyển 2 phải hốt liền"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Ngọc Tú",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "46 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Viên Phụng",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thy Nguyen",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Trần Mai Ngân",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

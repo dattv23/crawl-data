@@ -1,0 +1,92 @@
+{
+    "info": {
+        "title": "Một Cội Cây Rừng",
+        "author": "Ajahn Chah",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/54/0a/24/28ea5d795539723487f65ba707659771.jpg.webp",
+        "soldQuantity": 251,
+        "currentPrice": 50000,
+        "originalPrice": 75000
+    },
+    "details": {
+        "bookVersion": "Phiên bản thường",
+        "publisher": "VanLangBooks",
+        "publishDate": "2023-02-01 00:00:00",
+        "dimensions": "13.5 x 21 cm",
+        "translator": "Huỳnh Văn Thanh",
+        "coverType": "Bìa mềm",
+        "pageCount": "184",
+        "publishingHouse": "Nhà Xuất Bản Hồng Đức"
+    },
+    "description": "“Phật pháp đang hiển lộ trong mọi khoảnh khắc, nhưng chỉ khi tâm an tĩnh, chúng ta mới có thể thấu hiểu, vì Phật pháp đang giảng dạy chúng ta bằng vô ngôn”. Ajahn Chah khuyến khích chúng ta tìm Pháp, học Pháp từ thiên nhiên, từ mọi công việc đời thường.\nNghiên cứu Phật pháp là việc phải làm hàng ngày, nhưng ngay cả khi bạn đã dụng công nghiền ngẫm kinh sách mà không thực hành thì cũng giống như một lữ khách chỉ nghiên cứu lộ trình trên bản đồ mà không thực sự bước đi trên con đường đó. “Một cội cây rừng” giúp bạn học và hiểu Pháp một cách rõ ràng và sâu sắc. Bạn sẽ thấu đạt chân lý “trong khổ có lạc, trong hỗn độn có tĩnh lặng” nếu thấy được thực tướng của vạn pháp.\nTương tự như vậy, các dụ ngôn sinh động từ thực tế cuộc sống mà Ajahn Chah dẫn ra trong cuốn sách này sẽ giúp bạn thấu suốt thực tại, để tâm an tĩnh, buông bỏ tất cả và khởi sinh trí huệ. Ajahn Chah khẳng định rằng chúng ta có thể học điều đó từ thiên nhiên và mọi vật xung quanh chúng ta.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 19
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Hồng Anh",
+                "date": "Đã tham gia 6 năm",
+                "reviewCount": "18 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nghe sách nói trên Youtube thấy rất hay nên mua đọc. Còn là sách của Ajahn Chah, người thầy mà Ajahn Brahm đã nhắc nhiều lần trong các cuốn sách của ông. Một cuốn sách với những câu chuyện ngắn và những...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thao Tran",
+                "date": "Đã tham gia 6 năm",
+                "reviewCount": "62 Đánh giá",
+                "likedCount": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Nội dung hay\r\nSách mới, đẹp\r\nBao bìa cẩn thận"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Bão",
+                "date": "Đã tham gia 1 năm",
+                "reviewCount": "7 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Gói sách, sạch sẽ, gọn, giao hàng vui vẻ, rất thích đặt sách tiki"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lưu Lan",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "25 Đánh giá",
+                "likedCount": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách gối đầu giường"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dầz SSj",
+                "date": "Đã tham gia 8 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

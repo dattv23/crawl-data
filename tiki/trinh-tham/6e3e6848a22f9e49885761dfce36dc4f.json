@@ -1,0 +1,90 @@
+{
+    "info": {
+        "title": "Agatha Christie. Bí mật chuyến tàu xanh",
+        "author": "Agatha Christie",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/60/9b/3c/384a6c75a74981c688f9c6e55a9f8925.jpg.webp",
+        "soldQuantity": 154,
+        "currentPrice": 101900,
+        "originalPrice": 145000
+    },
+    "details": {
+        "publisher": "NXB Trẻ",
+        "publishDate": "2024-04-15 00:00:00",
+        "dimensions": "13 x 20 cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "340",
+        "publishingHouse": "NXB Trẻ"
+    },
+    "description": "KỲ ÁN CHUYẾN TÀU XANH tiếp tục dẫn dắt bạn đọc vào một cuộc phá án ly kỳ của thám tử Poirot, với những suy luận thông minh, lắt léo nhằm đưa tội phạm thực sự ra ánh sáng. Với tác phẩm này, Agatha Christie thêm lần nữa chứng minh vị trí nữ hoàng truyện trinh thám trong lòng độc giả nhiều thế hệ.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 12
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "phung khue",
+                "date": "Đã tham gia 10 năm",
+                "reviewCount": "164 Đánh giá",
+                "likedCount": "424 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Cái chết con gái nhà triệu phú người Mỹ trên chuyến tàu tốc hành băng qua nước Pháp dấy lên nghi ngờ của cảnh sát xung quanh người tình và người chồng của cô. Khi thám tử Poirot, người cũng có mặt trên...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thành Tâm",
+                "date": "Đã tham gia 10 năm",
+                "reviewCount": "55 Đánh giá",
+                "likedCount": "20 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Lòng tham đã khiến hung thủ sắp xếp kế hoạch cùng với đồng bọn của mình không chút sơ hở với con mắt mọi người. Với Poirot không gì là không thể nghi ngờ từ những chi tiết nhỏ thu thập được đã giúp ông...Xem thêm"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Lưu Thanh Hùng",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "35 Đánh giá",
+                "likedCount": "2 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng sách in ấn đẹp"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Võ Nguyễn Thiên Phúc",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "38 Đánh giá",
+                "likedCount": "3 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "đẹp, nguyên seal"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Pham Hong Nhi",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "38 Đánh giá",
+                "likedCount": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

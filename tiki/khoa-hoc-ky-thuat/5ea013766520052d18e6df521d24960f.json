@@ -1,0 +1,90 @@
+{
+    "info": {
+        "title": "Sổ Tay Chuyên Ngành Hàn",
+        "author": "Trần Thế San - Tăng Văn Mùi",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/media/catalog/product/i/m/img127.u547.d20170224.t085601.489711.jpg.webp",
+        "soldQuantity": 166,
+        "currentPrice": 42000,
+        "originalPrice": 42000
+    },
+    "details": {
+        "publisher": "Trí Dân",
+        "publishDate": "2013-05-25 00:00:00",
+        "dimensions": "14 x 20.5 cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "271",
+        "publishingHouse": "Nhà Xuất Bản Khoa học và Kỹ thuật"
+    },
+    "description": "Sổ Tay Chuyên Ngành Hàn\nCuốnSổ Tay Chuyên Ngành Hànđược viết cho những người yêu thích hoặc có nhu cầu tìm hiểu về kỹ thuật hàn, giúp họ thực hiện tốt hơn những công việc đang đảm nhận, từ xây dựng nhà cửa, sửa chữa đường sắt hoặc hàn các lon đồ hộp,...\nMục đích của cuốn sách là hỗ trợ bạn đọc thực hiện các công việc hàng ngày, cập nhật các thông tin và thiết bị mới nhất trong lĩnh vực hàn. Các công thức tính toán được giản lược tối đa để giúp bạn đọc dễ sử dụng, chỉ cần thực hiện vài đo đạc đơn giản và các phép tính thông thường.\nNhiều hình ảnh được sử dụng để minh họa các bộ phận và kỹ thuật hàn trong thời đại ngày nay. Mặc dù không thể trình bày mọi vấn đề liên quan đến kỹ thuật hàn, nhưng với các quy trình tiêu chuẩn, cuốnSổ Tay Chuyên Ngành Hànnày cung cấp đầy đủ các hướng dẫn, gợi ý, và những vấn đề quan trọng cần quan tâm.\nĐây là cuốn sách rất hữu ích cho học viên các lớp hướng nghiệp, sinh viên cao đẳng kỹ thuật, các chương trình học nghề, và các khóa huấn luyện hàn trong công nghiệp. Với các thợ hàn chuyên nghiệp, cuốn sách này là tài liệu tham khảo rất tiện lợi trong khi đang làm việc trên công trường, qua đó có thể xử lý các vấn đề hàn thường ngày dễ dàng hơn.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 4.5,
+        "numberOfRating": 17
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Tạ Quang Dũng",
+                "date": "Đã tham gia 5 năm",
+                "reviewCount": "28 Đánh giá",
+                "likedCount": "5 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Chất lượng giấy in ổn, chữ có chỗ hơi nhoè nhưng đọc được."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Đinh Văn Hoan",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "2 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Văn Hoằng",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "15 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Phạm Huy hoàng",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "18 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyen Thanh Long",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "13 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

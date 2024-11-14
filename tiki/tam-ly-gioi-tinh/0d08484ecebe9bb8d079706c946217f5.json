@@ -1,0 +1,91 @@
+{
+    "info": {
+        "title": "Tâm Lý Học Trẻ Em",
+        "author": "TS. Phạm Toàn",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/f0/f8/c9/df8e7c229d5ef213a7d7c00443ca9969.jpg.webp",
+        "soldQuantity": 225,
+        "currentPrice": 153300,
+        "originalPrice": 195000
+    },
+    "details": {
+        "bookVersion": "Phiên bản thường",
+        "publisher": "NXB Trẻ",
+        "publishDate": "2021-09-09 00:00:00",
+        "dimensions": "14 x 20 cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "532",
+        "publishingHouse": "NXB Trẻ"
+    },
+    "description": "Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 4.9,
+        "numberOfRating": 12
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Anh Tuấn",
+                "date": "Đã tham gia 8 năm",
+                "reviewCount": "20 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách in rõ. Tác giả viết nội dung  rất hữu ích cho những ai quan tâm đến tâm lý học trẻ em, cho các phụ huynh muốn biết về tâm lý con trẻ."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Dominic tuan",
+                "date": "Đã tham gia 6 năm",
+                "reviewCount": "116 Đánh giá",
+                "likedCount": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hien Pham",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "186 Đánh giá",
+                "likedCount": "1 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "mạnh phước vinh",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "2 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "NGUYỄN MINH SANG",
+                "date": "Đã tham gia 11 năm",
+                "reviewCount": "263 Đánh giá",
+                "likedCount": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "info": {
+        "title": "Thiền Luận",
+        "author": "Daisetz Teitaro Suzuki",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/86/d7/2f/9c42e5454f91333e780a8d8b77d8237a.jpg.webp",
+        "soldQuantity": 92,
+        "currentPrice": 596000,
+        "originalPrice": 795000
+    },
+    "details": {
+        "bookVersion": "Phiên bản thường",
+        "publisher": "VanLangBooks",
+        "publishDate": "2023-04-01 00:00:00",
+        "dimensions": "19 x 27 cm",
+        "translator": "TS Dương Ngọc Dũng",
+        "coverType": "Bìa cứng",
+        "pageCount": "840",
+        "publishingHouse": "Nhà Xuất Bản Hồng Đức"
+    },
+    "description": "“Thiền là gì?” Đó là câu hỏi rất khó trả lời, vì thiền từ khước tất cả những ý định mô tả hoặc định nghĩa. Vậy, để hiểu thiền, phương pháp hay nhất hẳn phải là học thiền và hành thiền ít nhất vài năm tại thiền đường. Thế nên, dầu đem hết tâm trí nghiền ngẫm thiên cảo luận này, e rằng bạn đọc vẫn không khỏi hoang mang.\nThật vậy, bản chất của thiền thoát ra ngoài tất cả định nghĩa và giải thích, nói cách khác, không bao giờ chuyển hóa thiền thành khái niệm được, hoặc mô tả được bằng ngôn từ hợp lý. Vì lý do đó, các thiền sư tuyên bố thiền độc lập với chữ nghĩa - bất lập văn tự - và là một sự trao truyền bên ngoài tất cả giáo lý chính thống - giáo ngoại biệt truyền.\nNhưng thiên cảo luận này không nhằm chứng minh suông thiền là thứ không thể hiểu được, vì như vậy không ích lợi gì, trái lại, là một nỗ lực làm sáng tỏ đạo nghĩa thiền. Về thiền, chúng ta có thể đề cập dưới nhiều góc độ khác nhau, về tâm lý, hoặc bản thể, hoặc hình tướng, hoặc lịch sử,… Thiền luận nhằm vào phương diện thực tiễn của vấn đề, với hy vọng rằng sẽ giúp bạn đọc đạt đến chỗ tột cùng có thể đạt tới trong hành trình.\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 4.7,
+        "numberOfRating": 17
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Lê Quý Bảo Khánh",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "87 Đánh giá",
+                "likedCount": "9 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Mình nhận sách mà thiếu quà tặng nhé shop."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Thanh Truong",
+                "date": "Đã tham gia 8 năm",
+                "reviewCount": "300 Đánh giá",
+                "likedCount": "30 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Ngoài quyển sách thật tuyệt vời ra mình còn muốn chia sẻ về nhân viên giao hàng của Tiki , thật sự họ rất cho đáo từ đóng gói đến giao hàng"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Hồng Đan Tử",
+                "date": "Đã tham gia 8 năm",
+                "reviewCount": "165 Đánh giá",
+                "likedCount": "94 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sách khổ to bìa cứng đẹp. Mua đúng lúc sêu le. Đã có bộ 3 cuốn nhưng người dịch khác. Sẽ so sánh 2 bản dịch xem ai hay hơn."
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Minh Khôi",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "294 Đánh giá",
+                "likedCount": "28 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Tuyệt vời lắm / sách tốt - hay"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Lộc",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "141 Đánh giá",
+                "likedCount": "7 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Sản phẩm đóng gói cẩn thận, chất lượng tốt, giao hàng nhanh, chu đáo."
+            }
+        }
+    ]
+}

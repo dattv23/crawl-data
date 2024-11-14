@@ -1,0 +1,89 @@
+{
+    "info": {
+        "title": "Cherry Magic (Tập 12)",
+        "author": "Yuu Toyota",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/67/80/74/dee728d47bf14ccb8bf52e2968a25ee6.jpg.webp",
+        "soldQuantity": 141,
+        "currentPrice": 94900,
+        "originalPrice": 109000
+    },
+    "details": {
+        "publisher": "Daisy Comics",
+        "dimensions": "14.5 x 20.5 cm",
+        "coverType": "Bìa mềm",
+        "pageCount": "130",
+        "publishingHouse": "Nhà Xuất Bản Dân Trí"
+    },
+    "description": "Để chuẩn bị cho Festival Văn phòng phẩm, công việc của Kurosawa - trưởng nhóm mới được phân công trở nên bận rộn hơn bao giờ hết. Chứng kiến điều đó, Adachi mong muốn có thể giúp đỡ Kurosawa một phần nào.\n“Em đã bảo anh không được ôm đồm hết mọi thứ, phải dựa dẫm vào em hơn rồi cơ mà. Vậy mà anh chẳng thay đổi gì hết.”Vốn không quen nhờ vả ai, liệu rằng Kurosawa có thể một mình vượt qua những khó khăn để hoàn thành công việc được hay không? Bên cạnh đó, cặp đôi Tsuge và Minato cũng tiến triển đáng kể trong chuyến phượt đánh dấu nửa năm hẹn hò!!\nGiá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 5.0,
+        "numberOfRating": 11
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Thu Hoàng",
+                "date": "Đã tham gia 4 năm",
+                "reviewCount": "2 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": "Gói hàng chắc chắn, chất lượng sản phẩm tốt, nhưng thực sự là Tiki giao hàng quá lâu, như chỗ khác thì đã nhận hàng lâu rồi"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thanh Hiền",
+                "date": "Đã tham gia 10 năm",
+                "reviewCount": "3 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "hanh pham",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Ngọc Trân",
+                "date": "Đã tham gia 3 năm",
+                "reviewCount": "8 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Mai Anh",
+                "date": "Đã tham gia 9 năm",
+                "reviewCount": "1 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

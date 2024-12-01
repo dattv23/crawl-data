@@ -1,0 +1,51 @@
+{
+    "info": {
+        "title": "100 Câu Hỏi Về Lịch Sử Chữ Quốc Ngữ",
+        "author": "Phạm Thị Kiều Ly",
+        "imageUrl": "https://salt.tikicdn.com/cache/750x750/ts/product/0c/c1/eb/268953157ae4b13c096d2173e03e0310.jpg.webp",
+        "soldQuantity": 53,
+        "currentPrice": 83700,
+        "originalPrice": 135000
+    },
+    "details": {
+        "publisher": "Alphabooks",
+        "publishDate": "2024-01-08 00:00:00",
+        "dimensions": "16x19",
+        "coverType": "Bìa mềm",
+        "pageCount": "256",
+        "publishingHouse": "Nhà Xuất Bản Khoa Học Xã Hội"
+    },
+    "description": "Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....",
+    "rating": {
+        "totalRating": 3.0,
+        "numberOfRating": 2
+    },
+    "reviews": [
+        {
+            "reviewer": {
+                "name": "Duc tran",
+                "date": "Đã tham gia 2 năm",
+                "reviewCount": "5 Đánh giá",
+                "likedCount": "0 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 1,
+                "title": "Rất không hài lòng",
+                "content": "Giao hàng mà không biết coi đường Google Maps"
+            }
+        },
+        {
+            "reviewer": {
+                "name": "Nguyễn Thiệu",
+                "date": "Đã tham gia 7 năm",
+                "reviewCount": "87 Đánh giá",
+                "likedCount": "4 Lượt cảm ơn"
+            },
+            "review": {
+                "rating": 5,
+                "title": "Cực kì hài lòng",
+                "content": ""
+            }
+        }
+    ]
+}

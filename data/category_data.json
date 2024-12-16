@@ -1,41 +1,41 @@
 [
     {
-        "categoryId": "6608cf6b-713d-4be4-afbe-2bd1fc1ab21e",
+        "categoryId": "c22c3c23-522e-4da7-94fb-ad6385e88530",
         "name": "khoa-hoc-ky-thuat",
         "slug": "khoa-hoc-ky-thuat"
     },
     {
-        "categoryId": "f387bf02-972e-416f-8c2c-f63fd4cbe264",
+        "categoryId": "3cefaca3-a082-406d-92e4-3143c93514e8",
         "name": "lich-su-dia-ly",
         "slug": "lich-su-dia-ly"
     },
     {
-        "categoryId": "e81f3463-49ef-447b-bcb3-43f8c2bad8b8",
+        "categoryId": "4dc93fe9-eac7-49f8-92af-b07def555f93",
         "name": "nuoi-day-con",
         "slug": "nuoi-day-con"
     },
     {
-        "categoryId": "0c47baa5-50ef-48f9-8885-33183bf29811",
+        "categoryId": "678ed271-1732-4db1-b1ad-4f15d05d9ce3",
         "name": "sach-kien-thuc-tong-hop",
         "slug": "sach-kien-thuc-tong-hop"
     },
     {
-        "categoryId": "32783255-aacc-4a16-8588-30c342b1aad0",
+        "categoryId": "0a944931-99b3-475c-9af5-54273d8ff12a",
         "name": "sach-kinh-te",
         "slug": "sach-kinh-te"
     },
     {
-        "categoryId": "638b6115-a8b4-496f-9803-b528bb1a02a1",
+        "categoryId": "1fa3fb27-b1e9-40d8-8093-d73f014782d4",
         "name": "sach-ky-nang-song",
         "slug": "sach-ky-nang-song"
     },
     {
-        "categoryId": "1cc4da49-a510-41b3-967a-950b427df2c8",
+        "categoryId": "2f056b3d-7296-4b80-814a-c6e55c4e52e0",
         "name": "sach-van-hoc",
         "slug": "sach-van-hoc"
     },
     {
-        "categoryId": "77c2f688-74e6-4ec6-8a4d-736201732898",
+        "categoryId": "499adaf9-c51f-42c5-9070-e4c7eb0765a4",
         "name": "ton-giao-tam-linh",
         "slug": "ton-giao-tam-linh"
     }
